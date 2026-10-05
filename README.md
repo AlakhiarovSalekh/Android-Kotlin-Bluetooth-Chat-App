@@ -47,6 +47,12 @@ gradle/       Gradle wrapper files
 
 Bug fixes, Android compatibility improvements, documentation updates, and UX improvements are welcome.
 
+## More Projects by Salekh
+
+- [Weather App](https://github.com/AlakhiarovSalekh/Weather-App) — native Android weather app.
+- [Notes App](https://github.com/AlakhiarovSalekh/Notes-App) — Kotlin/Compose notes app with Room and Hilt.
+- [Lector](https://github.com/AlakhiarovSalekh/Lector) — private offline Android document reader with TTS.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)

@@ -34,6 +34,18 @@ git clone https://github.com/AlakhiarovSalekh/Android-Kotlin-Bluetooth-Chat-App.
 
 Open the project in Android Studio, allow Gradle to synchronize, then run it on compatible Android devices. Bluetooth functionality requires devices with Bluetooth support and the permissions expected by the Android version being used.
 
+You can also verify a debug build with the included Gradle wrapper:
+
+```bash
+./gradlew assembleDebug
+```
+
+On Windows:
+
+```powershell
+.\gradlew.bat assembleDebug
+```
+
 ## Repository Structure
 
 ```text

@@ -47,6 +47,8 @@ gradle/       Gradle wrapper files
 
 Bug fixes, Android compatibility improvements, documentation updates, and UX improvements are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Weather App](https://github.com/AlakhiarovSalekh/Weather-App) — native Android weather app.
